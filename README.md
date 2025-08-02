@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, Welcome To My Profile 👋
 
 <!--
 **ArleyxaSyarif/ArleyxaSyarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Semangat Ngoding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFzano4NXRhaWo0dGQ4Nmg1ZjVnNTg5MWxraW8wZmNhM2xrcWZ0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DTnuPhxv0m4w/giphy.gif)
