@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,laravel,php,python,nodejs,nextjs,mysql,sqlite,tailwind,ts,discord,github,postman)](https://skillicons.dev)
