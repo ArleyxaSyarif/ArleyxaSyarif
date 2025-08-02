@@ -1,5 +1,5 @@
 ## Hello, Welcome To My Profile 👋
-
+![Arleyxa Syarif](img/github-header-image.png)
 <!--
 **ArleyxaSyarif/ArleyxaSyarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
