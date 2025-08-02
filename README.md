@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,laravel,php,python,nodejs,nextjs,mysql,sqlite,tailwind,ts,discord,github,postman)](https://skillicons.dev)
+
+### My Github Stats
+
+![ArleyxaSyarif Stats](https://github-readme-stats.vercel.app/api?username=ArleyxaSyarif&show_icons=true&theme=transparent)
